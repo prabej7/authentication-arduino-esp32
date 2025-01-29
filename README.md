@@ -1,6 +1,6 @@
 # Authentication System Using Arduino and ESP32
 
-![Alt text](./tinkercad-circuit.png "a title")
+![Tinkercad ciruit](./tinkercad-circuit.png "Circuit Diagram")
 
 This project implements an authentication system using an Arduino and an ESP32 microcontroller. The system utilizes a keypad for user input, communicates via serial between the Arduino and ESP32, and serves authentication responses via a web server.
 
